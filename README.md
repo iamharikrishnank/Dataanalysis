@@ -5,6 +5,7 @@ Assume a famous company from US wants to start an IT venture in India. Their mai
 - Hyderabad
 - Chennai
 - Kochi
+
 They need to start their business in one of the bases in India where they can get good resources at good price. (Factors like salary,cost of living, technical skills etc influence this). For that the company needs to do a feasibility study?
 # Task
  Help the company to choose the best place by doing a feasibility study.For that do a detailed analysis using
